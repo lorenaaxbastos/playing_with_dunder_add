@@ -1,6 +1,6 @@
 # Playing with *dunder* add in Python
 
-This a repo for exploring encapsulation and dunder method uses in custom classes. 
+This is a repo for exploring encapsulation and dunder method uses in custom classes. 
 
 ## What are *dunder* methods?
 
